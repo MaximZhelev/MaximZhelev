@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently developing telegram bot with nodejs
+- 🔭 I’m currently working on [Private](https://github.com/MaximZhelev/Templates)
+- 📫 How to reach me: maxim.jelev@gmail.com
 - 💬 Ask me about anything
 - 👯 I’m looking to collaborate with anyone on any project
-- 📫 How to reach me: maxim.jelev@gmail.com
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaximZhelev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximZhelev)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 <!--
