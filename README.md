@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Private](https://github.com/MaximZhelev/Templates)
+- 🔭 I’m currently working on my new portfolio
 - 📫 How to reach me: maxim.jelev@gmail.com
 - 💬 Ask me about anything
 - 👯 I’m looking to collaborate with anyone on any project
