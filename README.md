@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaximZhelev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximZhelev)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on new Portfolio site
 - 💬 Ask me about anything, I'm happy to help
 - 📫 How to reach me: maxim.jelev@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaximZhelev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximZhelev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
