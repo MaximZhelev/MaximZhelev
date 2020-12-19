@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on new Portfolio site
-- 💬 Ask me about anything, I'm happy to help
+- 🔭 I’m currently developing telegram bot with nodejs
+- 💬 Ask me about anything
+- 👯 I’m looking to collaborate with anyone on any project
 - 📫 How to reach me: maxim.jelev@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaximZhelev)](https://github.com/anuraghazra/github-readme-stats)
