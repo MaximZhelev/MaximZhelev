@@ -1,6 +1,5 @@
 ### Hi there 👋
-Hi. I'm Maxim, a software engineer who likes to work with 
-Javascript(Typescript)/CSS/HTML/Solidity/Python.
+Hi. I'm Maxim, a software engineer who likes to work with Javascript(Typescript)/CSS/HTML/Solidity/Python.
 
 - Blockchain Developer (Dapp,DeFi,Ethereum,Polygon,Smart Contract, Solidity)
 - Full Stack Web Developer (React.js, Next.js,Gatsby, React Native, Vue.js, Nuxt.js, Node.js, PWA, GraphQL, MongoDB)
