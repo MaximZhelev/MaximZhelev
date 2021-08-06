@@ -4,6 +4,8 @@ Javascript(Typescript)/CSS/HTML/Solidity/Python.
 
 - Blockchain Developer (Dapp,DeFi,Ethereum,Polygon,Smart Contract, Solidity)
 - Full Stack Web Developer (React.js, Next.js,Gatsby, React Native, Vue.js, Nuxt.js, Node.js, PWA, GraphQL, MongoDB)
+ 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
 - 🌱 I'm currently focusing on blockchain technologies.
 - 🤔 I'm looking to help with building Dapp/DeFi products.
