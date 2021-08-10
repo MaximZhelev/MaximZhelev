@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi. I'm Maxim, a software engineer who likes to work with Javascript(Typescript)/CSS/HTML/Solidity/Python.
 
-- Blockchain Developer (Dapp,DeFi,Ethereum,Polygon,Smart Contract, Solidity)
+- Blockchain Developer (Dapp,DeFi,Ethereum,Polygon,Smart Contracts, Solidity)
 - Full Stack Web Developer (React.js, Next.js, Gatsby, React Native, Node.js, GraphQL, MongoDB)
  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
