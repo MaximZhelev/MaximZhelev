@@ -6,7 +6,7 @@ Hi. I'm Maxim, a software engineer who likes to work with Javascript(Typescript)
  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I'm currently learning blockchain technologies.
+- 🌱 I'm currently working with blockchain technologies.
 - 📫 How to reach me: maxim.jelev@gmail.com
 
 ### Languages and Tools:
