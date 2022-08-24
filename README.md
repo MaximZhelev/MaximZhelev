@@ -1,5 +1,5 @@
 ### Hey 👋
-Hi. I'm Maxim, a frontend developer with 3+ years of professional experience working in small and large teams to develop interactive, user-friendly, and feature-rich web applications. A self-motivated and lifelong learner familiar with modern web development and web3 technologies (blockchain, crypto, DeFi).
+Hi. I'm Maxim, a frontend developer who likes to work with Javascript(Typescript)/CSS/HTML/Solidity.
 
 - Frontend developer (React.js, Next.js, Gatsby, React Native, Node.js, GraphQL, MongoDB)
 - Blockchain developer (Dapp, DeFi, Ethereum, Polygon, Smart Contracts, Solidity)
